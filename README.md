@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Vieira</h1>
 
-[![LinkedIn badge](https://img.shields.io/badge/-diogovieira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogo-vieira-44a64826)
+[![LinkedIn badge](https://img.shields.io/badge/-diogovieira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogo-mvieira63/)
 [![Email badge](https://img.shields.io/badge/-diogovieira-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jdmartinsvieira63@gmail.com)
 
 <p align="center">I'm doing Masters in Software Engineering at University of Minho.</p>
